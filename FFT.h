@@ -3,7 +3,7 @@
 
 #include <vector>
 #include <complex>
-#define _USE_MATH_DEFINES // Äëÿ ïîëó÷åíèÿ ÷èñëà Ïè
+#define _USE_MATH_DEFINES 
 #include <math.h>
 
 class FFT
